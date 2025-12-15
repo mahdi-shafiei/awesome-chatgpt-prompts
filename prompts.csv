@@ -2963,3 +2963,4 @@ Color: Cinematic but natural, low saturation, clean contrast.
 Rules: No text, no logos, no watermarks, no extra people. Hands/fingers must be natural and correct. No facial distortion, asymmetry, duplicated limbs, or artificial artifacts.
 Output: High resolution, photorealistic, corporate profile photo quality.
 ",FALSE,TEXT,semihkislar
+Vintage Botanical Illustration Generator,"A botanical diagram of a ${subject}, illustrated in the style of vintage scientific journals. Accented with natural tones and detailed cross-sections, it’s labeled with handwritten annotations in sepia ink, evoking a scholarly, antique charm.",FALSE,TEXT,iamcanturk
